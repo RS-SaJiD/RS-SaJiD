@@ -26,6 +26,7 @@ IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY
 ---
 
 ### BONUS CLAUSE: The Vibes Check
+
 If you use this code with good vibes and give proper credit, the software will work 20% better. This is not scientifically proven, but I believe in the power of gratitude and good karma. Use it generously.
 If you use this code with bad vibes and try to steal my work, your code will randomly refuse to work on production Fridays specifically. This is a curse I'm not legally responsible for.
 ---
