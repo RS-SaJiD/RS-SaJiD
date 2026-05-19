@@ -15,9 +15,13 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 - You cannot remove this LICENSE and pretend you wrote it (again, pigeons and chess)
 
 ### THE FINE PRINT NO ONE READS
+
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
 **Translation (For the Impatient)**: Basically, if your code explodes, your servers melt, your boss fires you, your cat leaves you, and your houseplants stage a rebellion—I get to point and laugh. That's the whole contract. I am legally permitted to laugh.
+
 IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
 **What This Means**: You broke it, you fix it. I didn't break your thing. I was literally not here. My alibi is airtight.
 ---
 
