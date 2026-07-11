@@ -1,3 +1,6 @@
+![dark anaconda](https://raw.githubusercontent.com/RS-SaJiD/RS-SaJiD/snake-assets/nord.svg#gh-dark-mode-only)
+![light anaconda](https://raw.githubusercontent.com/RS-SaJiD/RS-SaJiD/snake-assets/red-github-light.svg#gh-light-mode-only)
+
 ## Hi there 👋
 
 <!--
